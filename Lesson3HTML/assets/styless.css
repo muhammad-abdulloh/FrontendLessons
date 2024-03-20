@@ -1,0 +1,9 @@
+#btn2:hover {
+    /* //display: none!important; */
+    /* cursor: no-drop; */
+
+}
+
+.btn-class :hover {
+    display: none!important;
+}

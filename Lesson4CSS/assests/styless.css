@@ -1,0 +1,99 @@
+@font-face {
+    font-family: "Custom Font Sofia";
+    src: url(fonts/Sofia/Sofia-Regular.ttf) format("ttf");
+}
+
+
+
+
+
+h1 {
+    color: red;
+}
+
+body {
+    background-color: aquamarine;
+    opacity: 1;
+}
+
+pre {
+    width: 700px;
+    height: 200px;
+    background-color: rebeccapurple;
+}
+
+
+pre {
+    margin-top: 2rem;
+    margin-left: 5rem;
+    margin-right: 4rem; 
+    margin-bottom: 2rem;
+}
+
+pre {
+    box-sizing: border-box;
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-right: 6rem;
+    padding-bottom: 4rem;
+}
+
+/* body {
+    background-image: url("./images/image.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    position: fixed;
+    background-attachment: fixed;
+} */
+
+
+@font-face {
+    font-family: 'Sofia';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/sofia/v14/8QIHdirahM3j_su5uI0.woff2) format('woff2');
+    /*  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; */
+  }
+  h1.v {
+    text-shadow: 0 -0.05em 0.2em #FFF, 0.01em -0.02em 0.15em #FE0, 0.01em -0.05em 0.15em #FC0, 0.02em -0.15em 0.2em #F90, 0.04em -0.20em 0.3em #F70, 0.05em -0.25em 0.4em #F70, 0.06em -0.2em 0.9em #F50, 0.1em -0.1em 1.0em #F40;
+    color: #ffe;
+  }
+
+
+body {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    background: aquamarine url(images/image.png) no-repeat right top fixed;
+}
+
+h1.v {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+
+h3.a {
+    /* font-family: "Custom Font Sofia", cursive; */
+}
+
+h3.b {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h3.c {
+    font-family: "Delicious Handrawn", cursive;;
+}
+
+h3.d {
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+h3.e {
+    font-family: "Sofia", sans-serif;
+}
+
+
+

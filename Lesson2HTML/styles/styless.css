@@ -1,0 +1,21 @@
+.my-table {
+    border: 3px solid #93d6f0;
+    /* border-collapse: collapse; */
+    background-color: #2edbf2;
+    width: 500px;
+    height: 500px;
+}
+
+.my-table-tr th {
+    border: 1px solid #000;
+    border-collapse: collapse;
+
+    background-color: #aeef83;
+}
+
+.my-table-tr td {
+    border-collapse: collapse;
+
+    text-align: center;
+    border: 1px solid #000;
+}
